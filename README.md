@@ -20,7 +20,7 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![PHP](https://img.shields.io/badge/Php-4f5b93?logo=php&logoColor=white&style=for-the-badge)
-    <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white"></a>
+![R](https://img.shields.io/badge/R-276DC3?logo=R&logoColor=white&style=for-the-badge)
 
 
 <!--
