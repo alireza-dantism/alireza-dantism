@@ -19,7 +19,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=black&style=for-the-badge)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![PHP](https://img.shields.io/badge/Php-3776AB?logo=php&logoColor=blue&style=for-the-badge)
+![PHP](https://img.shields.io/badge/Php-3776AB?logo=php&logoColor=white&style=for-the-badge)
     <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white"></a>
 
 
