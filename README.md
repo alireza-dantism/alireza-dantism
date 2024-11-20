@@ -22,7 +22,7 @@
 ![R](https://img.shields.io/badge/R-276DC3?logo=R&logoColor=white&style=for-the-badge)
 ![PHP](https://img.shields.io/badge/Php-4f5b93?logo=php&logoColor=white&style=for-the-badge)
 ![Laravel](https://img.shields.io/badge/Laravel-ff1300?logo=Laravel&logoColor=white&style=for-the-badge)
-![Vue](https://img.shields.io/badge/Vue3-42b883?logo=Vue&logoColor=white&style=for-the-badge)
+![Vue](https://img.shields.io/badge/Vue-42b883?logo=Vue&logoColor=white&style=for-the-badge)
 
 
 <!--
