@@ -2,7 +2,7 @@
   Hi there, I'm <a href="https://github.com/alireza-dantism" target="_blank">@alireza-dantism</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=2.5% height=2.5%>
 </h1>
 
-<p align='left'>
+<p align='center'>
   
   <a href="https://scholar.google.com/citations?hl=en&user=2nQrkmMAAAAJ">
     <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
