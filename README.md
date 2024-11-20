@@ -3,7 +3,6 @@
 </h1>
 
 <p align='center'>
-  
   <a href="https://scholar.google.com/citations?hl=en&user=2nQrkmMAAAAJ">
     <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
   </a>
@@ -13,10 +12,6 @@
   <a href="https://www.instagram.com/alireza_dantism">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />              
   </a>
-  <a href="https://ullahsamee.github.io/photography">
-    <img src="https://img.shields.io/badge/Photography-8B89CC?style=for-the-badge&logo=Photography&logoColor=white" />        
-  </a>
-  
 </p>
 
 <!--
