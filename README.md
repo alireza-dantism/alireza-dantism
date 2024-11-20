@@ -2,11 +2,6 @@
   Hi there, I'm <a href="https://github.com/alireza-dantism" target="_blank">@alireza-dantism</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=2.5% height=2.5%>
 </h1>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/alireza-dantism/count.svg" />
-</p>
-
 <p align='center'>
   <a href="https://scholar.google.com/citations?hl=en&user=2nQrkmMAAAAJ" target="_blank">
     <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
@@ -17,6 +12,11 @@
   <a href="https://www.instagram.com/alireza_dantism" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />              
   </a>
+</p>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/alireza-dantism/count.svg" />
 </p>
 
 ## Skills
