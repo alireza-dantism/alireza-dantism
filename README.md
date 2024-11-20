@@ -3,13 +3,13 @@
 </h1>
 
 <p align='center'>
-  <a href="https://scholar.google.com/citations?hl=en&user=2nQrkmMAAAAJ">
+  <a href="https://scholar.google.com/citations?hl=en&user=2nQrkmMAAAAJ" target="_blank">
     <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/alidantism/">
+  <a href="https://www.linkedin.com/in/alidantism/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/alireza_dantism">
+  <a href="https://www.instagram.com/alireza_dantism" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />              
   </a>
 </p>
