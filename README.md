@@ -23,6 +23,7 @@
 ![PHP](https://img.shields.io/badge/Php-4f5b93?logo=php&logoColor=white&style=for-the-badge)
 ![Laravel](https://img.shields.io/badge/Laravel-ff1300?logo=Laravel&logoColor=white&style=for-the-badge)
 ![Vue](https://img.shields.io/badge/Vue-42b883?logo=vue.js&logoColor=white&style=for-the-badge)
+![Jira](https://img.shields.io/badge/Jira-42b883?logo=jira&logoColor=white&style=for-the-badge)
 
 
 
