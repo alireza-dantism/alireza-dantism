@@ -20,11 +20,10 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=black&style=for-the-badge)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![R](https://img.shields.io/badge/R-276DC3?logo=R&logoColor=white&style=for-the-badge)
 ![PHP](https://img.shields.io/badge/Php-4f5b93?logo=php&logoColor=white&style=for-the-badge)
 ![Laravel](https://img.shields.io/badge/Laravel-ff1300?logo=Laravel&logoColor=white&style=for-the-badge)
 ![Vue](https://img.shields.io/badge/Vue-42b883?logo=vue.js&logoColor=white&style=for-the-badge)
-![Jira](https://img.shields.io/badge/Jira-1a73ec?logo=jira&logoColor=white&style=for-the-badge)
+![React JS](https://img.shields.io/badge/Jira-1a73ec?logo=jira&logoColor=white&style=for-the-badge)
 
 
 
