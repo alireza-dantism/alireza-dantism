@@ -21,7 +21,7 @@
 ![PHP](https://img.shields.io/badge/Php-4f5b93?logo=php&logoColor=white&style=for-the-badge)
 ![Laravel](https://img.shields.io/badge/Laravel-ff1300?logo=Laravel&logoColor=white&style=for-the-badge)
 ![Vue3](https://img.shields.io/badge/Vue-42b883?logo=vue.js&logoColor=white&style=for-the-badge)
-![React JS](https://img.shields.io/badge/Jira-1a73ec?logo=jira&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 
 
