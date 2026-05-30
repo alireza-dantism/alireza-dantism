@@ -22,7 +22,6 @@
 ![Nextflow](https://img.shields.io/badge/-Nextflow-3EAAAF?style=for-the-badge&logo=nextflow&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![PHP](https://img.shields.io/badge/Php-4f5b93?logo=php&logoColor=white&style=for-the-badge)
-![Laravel](https://img.shields.io/badge/Laravel-ff1300?logo=Laravel&logoColor=white&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 <!--
